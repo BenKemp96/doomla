@@ -1,0 +1,11 @@
+td.property input{
+	width: 400px;
+}
+
+td.content input{
+	height: 200px;
+}
+
+td a{
+	margin-left: 20px;
+}
